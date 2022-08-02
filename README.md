@@ -15,6 +15,9 @@ This plugin will give extend basic Mautic API and allow you to extract statistic
 No individual/contact/company related information is saved, only summary of data.
 This information is used to understand how deeply you are using Mautic and suggest the next action you can/should do by using the system.
 
+## Requirements
+You need minimum php 7.4, Mautic 4+
+
 ## Does it work individually?
 
 This plugin relies on a backend, that generates all the next steps, and guided tutorial experience. This logic is still in beta, and
