@@ -21,4 +21,4 @@ This plugin relies on a backend, that generates all the next steps, and guided t
 I'm still tweaking it. You can freely connect your Mautic to the Tutorial Engine, that is on my server on JoeyKeller.com
 
 Read more about how this plugin works:
-JoeyKeller.com
+[JoeyKeller.com](https://joeykeller.com/mautic-tutorial-plugin/)
