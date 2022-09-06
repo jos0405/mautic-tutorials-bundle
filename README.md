@@ -1,4 +1,4 @@
-# -Guided Tutorials for Mautic-
+# ~~Guided Tutorials for Mautic~~
 # Is called now Mautic Navigator Plugin
 
 ## Stage
