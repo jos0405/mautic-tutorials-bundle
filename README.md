@@ -1,6 +1,9 @@
 # ~~Guided Tutorials for Mautic~~
 # Is called now Mautic Navigator Plugin
 
+![image](https://user-images.githubusercontent.com/4246909/188569398-06926ac5-6166-474c-9629-1aa47456dfbc.png)
+
+
 ## Stage
 This plugin is still in Beta.
 Any feedback is appreciated: me@joeykeller.com
